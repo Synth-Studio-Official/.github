@@ -1,5 +1,8 @@
-# Synth Studio
-Welcome to our studio!
+<h1 align="center">
+  <img width="400" src="https://github.com/Synth-Studio-Official/.github-private/blob/main/Synth%20Studio%20Logo.png?raw=true">
+  <br> Synth Studio: Welcome to our studio!
+</h1>
+
 
 # What we are
 Synth Studio is a Haxe/HaxeFlixel game development studio, so we can work on all kinds of games! We try our very best to keep development on games moding, especially considering we're working on 3 games simultaniously! There are groups of people who work on one or multiple games of their choosing! This all sounds great, but in reality, we have no where near enough people for each game to move forward in development consistantly! For one of the projects, it have no programmers on it. For another, there simply isn't enough people, and for the third one, there's only programmers. Thats why...
